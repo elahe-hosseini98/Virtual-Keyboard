@@ -28,7 +28,7 @@ Here’s a preview of the virtual keyboard on the webcam feed:
 To run the application, install the following dependencies:
 
 ```bash
-pip install opencv-python-headless mediapipe pillow numpy
+pip install -r requirements.txt
 ```
 Ensure you also have the necessary keyboard character images in the `statics/keys/small/png` directory.
 
