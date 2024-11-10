@@ -21,8 +21,7 @@ python main.py
 ```
 Here’s a preview of the virtual keyboard on the webcam feed:
 
-![Uploading Screenshot 2024-11-10 231253.png…]()
-
+![Screenshot 2024-11-10 231253](https://github.com/user-attachments/assets/55dd0083-a4af-4db7-b74e-6752695ced26)
 
 ### Requirements
 
