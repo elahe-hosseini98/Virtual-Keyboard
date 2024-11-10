@@ -21,7 +21,8 @@ python main.py
 ```
 Here’s a preview of the virtual keyboard on the webcam feed:
 
-![Popup Selfie Camera](assets/images/popup_camera_screen.png)
+![Uploading Screenshot 2024-11-10 231253.png…]()
+
 
 ### Requirements
 
